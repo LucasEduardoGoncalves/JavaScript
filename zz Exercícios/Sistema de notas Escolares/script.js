@@ -4,7 +4,7 @@ function nota() {
 
     if(notaAluno >= 90){
         notaAlunoLetra = ('A');
-    } else if ( notaAluno >= 80){
+    } else if (notaAluno >= 80){
         notaAlunoLetra = ('B');
     } else if (notaAluno >= 70){
         notaAlunoLetra = ('C');
